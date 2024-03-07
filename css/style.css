@@ -110,11 +110,11 @@ text-align: center;
 }
 
 .main {
-    margin-top: 247px;
     flex-grow: 1;
 }
 
 .main_title {
+    margin-top: 247px;
     margin-bottom : 38px;
     font-weight: 700;
     font-size: 96px;
@@ -254,4 +254,23 @@ width: 100%;
 }
 .p_item_imporant-things{
     margin-top: 20px;
+}
+.top_choose-car{
+    padding-top: 100px;
+    text-align: center;
+}
+.h2_top_choose-car{
+    margin-bottom: 50px;
+    font-weight: 700;
+    font-size: 48px;
+}
+.ul_top_choose-car{
+    display: flex;
+    justify-content: center;
+    font-size: 24px;
+    font-weight: 700;
+    gap: 80px;
+}
+.nav_top_choose-car {
+    padding-bottom: 100px;
 }
